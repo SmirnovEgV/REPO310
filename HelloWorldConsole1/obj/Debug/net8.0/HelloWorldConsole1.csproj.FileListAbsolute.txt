@@ -1,0 +1,14 @@
+F:\Учебная_фигня\REPO310\HelloWorldConsole1\bin\Debug\net8.0\HelloWorldConsole1.exe
+F:\Учебная_фигня\REPO310\HelloWorldConsole1\bin\Debug\net8.0\HelloWorldConsole1.deps.json
+F:\Учебная_фигня\REPO310\HelloWorldConsole1\bin\Debug\net8.0\HelloWorldConsole1.runtimeconfig.json
+F:\Учебная_фигня\REPO310\HelloWorldConsole1\bin\Debug\net8.0\HelloWorldConsole1.dll
+F:\Учебная_фигня\REPO310\HelloWorldConsole1\bin\Debug\net8.0\HelloWorldConsole1.pdb
+F:\Учебная_фигня\REPO310\HelloWorldConsole1\obj\Debug\net8.0\HelloWorldConsole1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Учебная_фигня\REPO310\HelloWorldConsole1\obj\Debug\net8.0\HelloWorldConsole1.AssemblyInfoInputs.cache
+F:\Учебная_фигня\REPO310\HelloWorldConsole1\obj\Debug\net8.0\HelloWorldConsole1.AssemblyInfo.cs
+F:\Учебная_фигня\REPO310\HelloWorldConsole1\obj\Debug\net8.0\HelloWorldConsole1.csproj.CoreCompileInputs.cache
+F:\Учебная_фигня\REPO310\HelloWorldConsole1\obj\Debug\net8.0\HelloWorldConsole1.dll
+F:\Учебная_фигня\REPO310\HelloWorldConsole1\obj\Debug\net8.0\refint\HelloWorldConsole1.dll
+F:\Учебная_фигня\REPO310\HelloWorldConsole1\obj\Debug\net8.0\HelloWorldConsole1.pdb
+F:\Учебная_фигня\REPO310\HelloWorldConsole1\obj\Debug\net8.0\HelloWorldConsole1.genruntimeconfig.cache
+F:\Учебная_фигня\REPO310\HelloWorldConsole1\obj\Debug\net8.0\ref\HelloWorldConsole1.dll
