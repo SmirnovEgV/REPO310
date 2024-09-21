@@ -12,3 +12,4 @@ F:\Учебная_фигня\REPO310\HelloWorldConsole1\obj\Debug\net8.0\refint\
 F:\Учебная_фигня\REPO310\HelloWorldConsole1\obj\Debug\net8.0\HelloWorldConsole1.pdb
 F:\Учебная_фигня\REPO310\HelloWorldConsole1\obj\Debug\net8.0\HelloWorldConsole1.genruntimeconfig.cache
 F:\Учебная_фигня\REPO310\HelloWorldConsole1\obj\Debug\net8.0\ref\HelloWorldConsole1.dll
+F:\Учебная_фигня\REPO310\HelloWorldConsole1\obj\Debug\net8.0\HelloWorldConsole1.sourcelink.json
