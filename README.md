@@ -4,9 +4,7 @@
 
 *Was create to show that I do know how to publish stuff on github and use IDE's*
 
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/OLIg1kq-5_Y)
 
 # Development Environment
 ### Versions provided as per extension name in VS Code
